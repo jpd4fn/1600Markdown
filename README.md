@@ -2,6 +2,6 @@
 
 **Markdown pages**
 
-[Tiger Woods Stats](https://github.com/jpd4fn/1600Markdown/blob/main/TigerFacts.md)
+*[Tiger Woods Stats](https://github.com/jpd4fn/1600Markdown/blob/main/TigerFacts.md)
 
-link 2
+*link 2
